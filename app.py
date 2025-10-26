@@ -46,7 +46,7 @@ with col2:
 # ---------- INTERVIEWER CHOICE ----------
 st.markdown("---")
 
-st.subheader("Quick ice-breaker — click one!")
+st.subheader("Quick ice-breaker — click one of my hobbies!")
 
 col1, col2, col3, col4 = st.columns(4)
 
